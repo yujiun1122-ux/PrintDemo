@@ -1,9 +1,7 @@
-print("hello world")
-
 # 변수 선언
-name = "Alice"
-age = 25
-score = 95.5
+name = "YJW"
+age = 20
+score = 70
 
 # 1. 기본 출력
 print("Hello, Python!")
